@@ -8,7 +8,7 @@ Esse codigo faz com que a ativação do windows seja feita de maneira muito rapi
 ```
 ### Execute esse comando:
 ```bash
-irm http://massgrave.hopto.org/get | iex
+irm https://massgrave.dev/get | iex
 ```
 Logo depois irá aparecer um menu voce digita:
 ```bash
